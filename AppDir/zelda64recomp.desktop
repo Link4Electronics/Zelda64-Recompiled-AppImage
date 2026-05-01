@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name="Zelda 64: Recompiled"
+Name=Zelda 64 Recompiled
 Comment=A native port of the N64 Legend of Zelda games, statically recompiled
 Exec=Zelda64Recompiled
 Terminal=false
